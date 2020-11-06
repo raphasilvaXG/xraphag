@@ -1,7 +1,3 @@
-# xraphag
-Sistema/ Inclusão de Dados - COBOL (aula)
-______________________________________________________
-
        IDENTIFICATION DIVISION.
        PROGRAM-ID.  CLIENTES.
       *******************************************
@@ -42,7 +38,7 @@ ______________________________________________________
                    BACKGROUND-COLOR 3.
                 10 LINE 01 COLUMN 25 PIC X(20)
                    BACKGROUND-COLOR 3  FOREGROUND-COLOR 0
-                              FROM 'SISTEMA DE CLIENTES '.
+                              FROM 'SISTEMA X RAPHA G'.
                 10 LINE 02 COLUMN 01 PIC X(25) ERASE EOL
                    BACKGROUND-COLOR 1 FROM WRK-MODULO.
        01 MENU.
